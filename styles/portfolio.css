@@ -173,3 +173,6 @@ input{
 .contact a{
   text-decoration: none;
 }
+input, textarea{
+  margin-top:10px ;
+}
